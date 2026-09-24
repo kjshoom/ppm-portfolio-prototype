@@ -25,7 +25,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: kjshoom/ppm-infs3059
-          ref: 445b149
+          ref: 445b149b7148d9d14fe00e699f215ff91d636c9b
       - name: Configure Pages
         uses: actions/configure-pages@v5
       - name: Upload site
